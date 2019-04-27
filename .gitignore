@@ -1,0 +1,6 @@
+*.sdf
+*.suo
+x64/
+Release/
+Debug/
+*.vcxproj.user
